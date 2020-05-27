@@ -36,8 +36,20 @@
             <version>1.7.30</version>
         </dependency>
 
+<!--        dependência do twitter-->
+        <dependency>
+            <groupId>com.twitter</groupId>
+            <artifactId>hbc-core</artifactId> <!-- or hbc-twitter4j -->
+            <version>2.2.0</version> <!-- or whatever the latest version is -->
+        </dependency>
+
+        <!-- Dependência do ElasticSearch -->
+        <dependency>
+            <groupId>org.elasticsearch</groupId>
+            <artifactId>elasticsearch</artifactId>
+            <version>7.7.0</version>
+        </dependency>
 
     </dependencies>
-
 
 </project>
