@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="19499d5f-c547-4ffa-98d1-cdc47d726a4a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/dimed/kafka/twitter/TwitterProducer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-    </list>
+    <list default="true" id="19499d5f-c547-4ffa-98d1-cdc47d726a4a" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -156,7 +152,7 @@
       <workItem from="1590403939756" duration="11179000" />
       <workItem from="1590496528424" duration="4469000" />
       <workItem from="1590512113621" duration="7087000" />
-      <workItem from="1590584010513" duration="712000" />
+      <workItem from="1590584010513" duration="1188000" />
     </task>
     <servers />
   </component>
